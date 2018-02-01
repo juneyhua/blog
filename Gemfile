@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.6.2"
+gem "jekyll", "~> 3.7.2"
 
 gem 'listen', '~> 3.0'
 
@@ -26,6 +26,7 @@ group :jekyll_plugins do
   gem "jekyll-assets"
   gem "jekyll-sitemap"
   gem 'jekyll-gist'
+  gem 'uglifier'
   gem 'jekyll-archives'
   gem 'jekyll-toc'
 end
