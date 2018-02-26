@@ -14,7 +14,7 @@
 **首页**
 
 <p class="center">
-    <img src="screenshot/home.png" width="80%"/>
+    <img src="screenshot/home.png" width="81%"/>
 </p>
 
 **归档**
