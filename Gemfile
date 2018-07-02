@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.7.2"
+gem "jekyll", "~> 3.8.3"
 
 gem 'listen', '~> 3.0'
 
@@ -21,7 +21,7 @@ gem 'listen', '~> 3.0'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-feed"
   gem "jekyll-paginate"
   gem "jekyll-assets"
   gem "jekyll-sitemap"
