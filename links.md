@@ -15,8 +15,8 @@ date: 2018-01-01
 * [小胖](http://www.ctrlcvs.com){:target="_blank"}
 * [yubutong](http://yubutong.cn){:target="_blank"}
 * [vzardlloo](https://vzardlloo.github.io){:target="_blank"}
-* [SunZhenyu](https://bakumon.me/blog){:target="_blank"}
-* [Bakumon](https://sunzhenyu.net){:target="_blank"}
+* [Bakumon](https://bakumon.me/blog){:target="_blank"}
+* [SunZhenyu](https://sunzhenyu.net){:target="_blank"}
 
 经常更新博文可交换友链接。
 还有，我会不定时对无法访问的网址进行清理，请保证自己的链接长期有效。
